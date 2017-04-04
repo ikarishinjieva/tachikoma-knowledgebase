@@ -8,5 +8,5 @@ It's personal knowledgebase. In chinese.
 
 ## 更新记录
 
-2017.04.04. 思维导图<分布式理论>, 与<The Part-Time Parliament>相关的部分.
-2017.04.04. 论文<The Part-Time Parliament>的批注.
+- 2017.04.04. 思维导图<分布式理论>, 与<The Part-Time Parliament>相关的部分.
+- 2017.04.04. 论文<The Part-Time Parliament>的批注.
