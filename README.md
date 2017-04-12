@@ -8,5 +8,7 @@ It's personal knowledgebase. In chinese.
 
 ## 更新记录
 
+- 2017.04.12. 思维导图<分布式理论>, 增加与\<Mencius Building Efficient Replicated State Machines for WANs\>相关的部分.
+- 2017.04.12. 增加论文\<Mencius Building Efficient Replicated State Machines for WANs\>的批注.
 - 2017.04.04. 思维导图<分布式理论>, 增加与\<The Part-Time Parliament\>相关的部分.
 - 2017.04.04. 增加论文\<The Part-Time Parliament\>的批注.
