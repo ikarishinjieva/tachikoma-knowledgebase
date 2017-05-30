@@ -8,6 +8,8 @@ It's personal knowledgebase. In chinese.
 
 ## 更新记录
 
+- 2017.05.30. 思维导图<监控>, 增加与\<Anomaly detection for monitoring\>相关的部分.
+- 2017.05.30. 增加论文\<Anomaly detection for monitoring\>的批注.
 - 2017.04.29. 思维导图<分布式理论>, 增加与\<Building consistent transaction with inconsistent replication\>相关的部分.
 - 2017.04.29. 增加论文\<Building consistent transaction with inconsistent replication\>的批注.
 - 2017.04.12. 思维导图<分布式理论>, 增加与\<Mencius Building Efficient Replicated State Machines for WANs\>相关的部分.
