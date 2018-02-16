@@ -8,6 +8,7 @@ It's personal knowledgebase. In chinese.
 
 ## 更新记录
 
+- 2018.02.16. 增加读书笔记<Head First Data Analysis>.
 - 2018.01.28. 增加读书笔记<Badass/ Making users AWESOME>.
 - 2017.12.15. 增加`collections.md`, 收集有用的外来知识.
 - 2017.05.30. 思维导图<监控>, 增加与\<Anomaly detection for monitoring\>相关的部分.
