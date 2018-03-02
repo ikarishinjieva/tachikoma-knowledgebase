@@ -14,5 +14,11 @@
 - Linux
     - Perf
         - [CPU pipeline front-end](https://software.intel.com/en-us/blogs/2011/11/22/pipeline-speak-learning-more-about-intel-microarchitecture-codename-sandy-bridge)
+        ```
+        the front-end does two main things - fetch instructions (from where program binaries are stored in memory or the caching system), and decode them into micro-operations. 
+        ```
         - [CPU pipeline back-end](https://software.intel.com/en-us/blogs/2011/12/01/pipeline-speak-part-2-the-second-part-of-the-sandy-bridge-pipeline)
+        ```
+        The back-end of the pipeline is responsible for executing the micro-operations the front-end generates. 
+        ```
         - [Perf examples](http://www.brendangregg.com/perf.html)
