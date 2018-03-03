@@ -13,6 +13,8 @@
 
 - Linux
     - Perf
+        - [Perf examples](http://www.brendangregg.com/perf.html)
+    - CPU Microarchitecture
         - [CPU pipeline front-end](https://software.intel.com/en-us/blogs/2011/11/22/pipeline-speak-learning-more-about-intel-microarchitecture-codename-sandy-bridge)
         ```
         the front-end does two main things - fetch instructions (from where program binaries are stored in memory or the caching system), and decode them into micro-operations. 
@@ -21,4 +23,10 @@
         ```
         The back-end of the pipeline is responsible for executing the micro-operations the front-end generates. 
         ```
-        - [Perf examples](http://www.brendangregg.com/perf.html)
+        - [Tuning Applications Using a Top-down Microarchitecture Analysis Method](https://software.intel.com/en-us/vtune-amplifier-help-tuning-applications-using-a-top-down-microarchitecture-analysis-method)
+        ```
+        A specific microarchitecture may make available hundreds of events through its PMU.
+        ...
+        you can benefit from using predefined events and metrics, and the top-down characterization method to convert the data into actionable information
+        ```
+        - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools)
