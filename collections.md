@@ -33,3 +33,8 @@
         ```
         pmu tools is a collection of tools for profile collection and performance analysis on Intel CPUs on top of Linux perf. 
         ```
+        - [Performance Analysis in Modern Multicores](http://cs.haifa.ac.il/~yosi/PARC/yasin.pdf)
+        ```
+        Introduction of CPU-microarchitecture/Vtune/Top-down
+        ```
+        ```
