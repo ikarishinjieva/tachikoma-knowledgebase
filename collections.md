@@ -30,3 +30,6 @@
         you can benefit from using predefined events and metrics, and the top-down characterization method to convert the data into actionable information
         ```
         - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools)
+        ```
+        pmu tools is a collection of tools for profile collection and performance analysis on Intel CPUs on top of Linux perf. 
+        ```
