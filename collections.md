@@ -12,8 +12,11 @@
             5. CPU cache missing Flame Graph
 
 - Linux
-    - Perf
-        - [Perf examples](http://www.brendangregg.com/perf.html)
+    - Performance Tracing
+        - [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
+        - Perf
+            - [Perf examples](http://www.brendangregg.com/perf.html)
+
     - CPU Microarchitecture
         - [CPU pipeline front-end](https://software.intel.com/en-us/blogs/2011/11/22/pipeline-speak-learning-more-about-intel-microarchitecture-codename-sandy-bridge)
         ```
@@ -37,4 +40,8 @@
         ```
         Introduction of CPU-microarchitecture/Vtune/Top-down
         ```
-        ```
+        
+   - Storage
+       - [Linux Storage Stack Diagram](https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram)
+       
+   
