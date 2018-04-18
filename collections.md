@@ -1,6 +1,8 @@
 - MySQL
     - Performance
         1. [Wakeup Affinity/NUMA relates](https://mp.weixin.qq.com/s/DG1v8cUjcXpa0x2uvrRytA)
+    - Deadlock
+        1. [Replace into deadlock analysis](https://www.kancloud.cn/taobaomysql/monthly/67177)
 
 - Java
     - Flame Graph
