@@ -8,6 +8,7 @@ It's personal knowledgebase. In chinese.
 
 ## 更新记录
 
+- 2018.06.21. 增加读书笔记\<数据库事务处理的艺术\>.
 - 2018.06.04. 增加读书笔记\<The Effective Executive\>.
 - 2018.05.03. 增加读书笔记\<The DevOps Handbook\>.
 - 2018.03.19. 增加演讲材料\<MySQL运维中如何使用观测工具\>.
