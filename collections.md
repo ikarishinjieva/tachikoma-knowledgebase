@@ -3,6 +3,8 @@
         1. [Wakeup Affinity/NUMA relates](https://mp.weixin.qq.com/s/DG1v8cUjcXpa0x2uvrRytA)
     - Deadlock
         1. [Replace into deadlock analysis](https://www.kancloud.cn/taobaomysql/monthly/67177)
+    - Checkpoint
+        1. [MySQL checkpoint 深入分析](https://www.cnblogs.com/geaozhang/p/7341333.html)
     - Group Commit
         1. [WL#5223: Group Commit of Binary Log
 ](https://dev.mysql.com/worklog/task/?id=5223) 
