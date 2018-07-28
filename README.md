@@ -8,6 +8,7 @@ It's personal knowledgebase. In chinese.
 
 ## 更新记录
 
+- 2018.07.29. 增加读书笔记\<进化-运维技术变革与实践探索\>.
 - 2018.06.21. 增加读书笔记\<数据库事务处理的艺术\>.
 - 2018.06.04. 增加读书笔记\<The Effective Executive\>.
 - 2018.05.03. 增加读书笔记\<The DevOps Handbook\>.
