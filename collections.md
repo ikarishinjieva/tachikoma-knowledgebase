@@ -59,4 +59,7 @@
         - [The method to epoll’s madness](https://medium.com/@copyconstruct/the-method-to-epolls-madness-d9d2d6378642)
         - [Wireshark Display Filter Reference](https://www.wireshark.org/docs/dfref/)
        
+- Go
+    - Memory
+        - [Go Memory Management](https://povilasv.me/go-memory-management/)
    
