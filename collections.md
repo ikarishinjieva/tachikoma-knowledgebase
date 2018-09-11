@@ -13,6 +13,7 @@
         ```
     - InnoDB
         1. [InnoDB diagrams](https://github.com/jeremycole/innodb_diagrams)
+        2. [The basics of InnoDB space file layout](https://blog.jcole.us/2013/01/03/the-basics-of-innodb-space-file-layout/)
 
 - Java
     - Flame Graph
