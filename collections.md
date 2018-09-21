@@ -71,6 +71,8 @@
             ```
             killcx spoofs a SYN packet on behalf of the client and sent it to the server. The server than replays with a valid TCP packet revealing the ACK and SEQ numbers. As soon as this this is on a wire the killcx sniffs this up and sent RST to kill the active session.
             ```
+    - Usage
+        - [Configure Postfix to Send Mail Using an External SMTP Server](https://www.linode.com/docs/email/postfix/postfix-smtp-debian7/)
        
 - Go
     - Memory
