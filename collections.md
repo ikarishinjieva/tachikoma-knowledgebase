@@ -77,4 +77,7 @@
 - Go
     - Memory
         - [Go Memory Management](https://povilasv.me/go-memory-management/)
+        
+- Collections
+    - [System Design Primer](https://github.com/donnemartin/system-design-primer)
    
