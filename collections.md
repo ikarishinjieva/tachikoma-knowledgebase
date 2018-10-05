@@ -77,7 +77,10 @@
 - Go
     - Memory
         - [Go Memory Management](https://povilasv.me/go-memory-management/)
-        
+
+- Machine Learning
+    - [data visualisation guide](https://www.kaggle.com/learn/data-visualisation)
+
 - Collections
     - [System Design Primer](https://github.com/donnemartin/system-design-primer)
    
