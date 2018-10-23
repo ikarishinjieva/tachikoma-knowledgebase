@@ -8,6 +8,7 @@ It's personal knowledgebase. In chinese.
 
 ## 更新记录
 
+- 2018.10.23. 增加Kaggle笔记: Titanic
 - 2018.09.11. 增加读书笔记\<前端技术相关\>, 涉及以下书籍:
   - 揭秘 Angular 2
   - Vue.js 权威指南
