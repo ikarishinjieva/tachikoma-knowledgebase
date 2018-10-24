@@ -80,6 +80,7 @@
 
 - Machine Learning
     - [data visualisation guide](https://www.kaggle.com/learn/data-visualisation)
+    - [Understanding Boxplots](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
 
 - Collections
     - [System Design Primer](https://github.com/donnemartin/system-design-primer)
