@@ -14,17 +14,18 @@ Kaggle 经验
 
 # House Prices
 
-[House Prices] (https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+[House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
 ## 参考
 
 [Comprehensive data exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
-## 经验
+## 概念
 
 - 峰度 (Kurtosis): [参考](https://zh.wikipedia.org/wiki/%E5%B3%B0%E5%BA%A6) 峰度高就意味着方差增大是由低频度的大于或小于平均值的极端差值引起的。 
 - 偏度 (Skewness): [参考](https://zh.wikipedia.org/wiki/%E5%81%8F%E5%BA%A6)
   - 偏度分为两种：
     - 负偏态或左偏态：左侧的尾部更长，分布的主体集中在右侧。
     - 正偏态或右偏态：右侧的尾部更长，分布的主体集中在左侧。
-    - 如果分布对称，那么平均值=中位数，偏度为零（此外，如果分布为单峰分布，那么平均值=中位数=众数）。
+    - 如果分布对称，那么平均值=中位数，偏度为零（此外，如果分布为单峰分布，那么平均值=中位数=众数）
+- boxplot: [参考](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
