@@ -84,4 +84,8 @@
 
 - Collections
     - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+    
+- Monitor
+    - Prometheus
+        - [Prometheus 不完全避坑指南](https://aleiwu.com/post/prometheus-bp/)
    
