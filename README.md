@@ -8,6 +8,7 @@ It's personal knowledgebase. In chinese.
 
 ## 更新记录
 
+- 2019.05.26. 增加读书笔记\<WHAT TO ASK THE PERSON IN THE MIRROR\>
 - 2019.05.11. 增加读书笔记\<未来的公司\>
 - 2018.12.05. 增加读书笔记\<大数据平台基础架构指南\>
 - 2018.11.19. 增加读书笔记\<Kafka技术内幕\>
