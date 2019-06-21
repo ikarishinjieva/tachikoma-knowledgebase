@@ -53,7 +53,9 @@
         ```
         Introduction of CPU-microarchitecture/Vtune/Top-down
         ```
-        
+
+    - Assembly Instructions
+        - Instructions (https://www.aldeid.com/wiki/X86-assembly/Instructions)
         
     - Storage
         - [Linux Storage Stack Diagram](https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram)
