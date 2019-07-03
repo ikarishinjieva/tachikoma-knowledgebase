@@ -78,6 +78,9 @@
         
     - Linux Capability
         - [Linux Capability golang library](https://github.com/elastic/go-seccomp-bpf)
+    - Profs
+        - [A month of /proc](https://ops.tips/blog/a-month-of-proc/)
+        - [How is /proc able to list process IDs?](https://ops.tips/blog/how-is-proc-able-to-list-pids/)
        
 - Go
     - Memory
