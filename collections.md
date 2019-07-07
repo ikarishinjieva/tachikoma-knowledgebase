@@ -63,8 +63,7 @@
     - Network
         - [The method to epoll’s madness](https://medium.com/@copyconstruct/the-method-to-epolls-madness-d9d2d6378642)
         - [Wireshark Display Filter Reference](https://www.wireshark.org/docs/dfref/)
-        - [How to forcibly kill an established TCP connection in Linux
-](http://rtomaszewski.blogspot.com/2012/11/how-to-forcibly-kill-established-tcp.html)
+        - [How to forcibly kill an established TCP connection in Linux](http://rtomaszewski.blogspot.com/2012/11/how-to-forcibly-kill-established-tcp.html)
             * tcpkill
             ```
             tcpkill listens on the incoming traffic, learns about the SEQ and ACK numbers and generate its RST packet to desynchronize and kill the TCP session
@@ -73,6 +72,9 @@
             ```
             killcx spoofs a SYN packet on behalf of the client and sent it to the server. The server than replays with a valid TCP packet revealing the ACK and SEQ numbers. As soon as this this is on a wire the killcx sniffs this up and sent RST to kill the active session.
             ```
+        - [Monitoring and Tuning the Linux Networking Stack: Sending Data](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data)
+        - [Monitoring and Tuning the Linux Networking Stack: Receiving Data](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
+        
     - Usage
         - [Configure Postfix to Send Mail Using an External SMTP Server](https://www.linode.com/docs/email/postfix/postfix-smtp-debian7/)
         
