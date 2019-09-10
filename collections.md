@@ -17,6 +17,10 @@
         
     - AHI
         1. [AHI performance](https://www.percona.com/blog/2016/04/12/is-adaptive-hash-index-in-innodb-right-for-my-workload/)
+        2. [InnoDB Adaptive hash index介绍](http://mysql.taobao.org/monthly/2015/09/01/)
+        ```
+        包括代码分析和观察手段
+        ```
 
 - Java
     - Flame Graph
