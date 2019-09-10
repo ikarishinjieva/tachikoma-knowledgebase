@@ -21,6 +21,7 @@
         ```
         包括代码分析和观察手段
         ```
+        3. [InnoDB Adaptive Hash Index调研总结 by 何登成](http://hedengcheng.com/?p=458)
 
 - Java
     - Flame Graph
