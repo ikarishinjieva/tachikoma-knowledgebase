@@ -1,0 +1,15 @@
+- [63] Prometheus 存储的历史设计:
+    - V1
+        - 使用LevelDB -> 性能受限
+        - 15min刷盘 -> 宕机会发生数据丢失
+    - V2
+        - 借鉴Gorilla的压缩算法, 并将每个时序存入单独的文件 -> iNode过多, 并导致写放大
+    - V3
+        - 按时间拆分block -> 解决性能问题
+        - WAL -> 解决数据丢失
+
+- [67] tombstone 用于block部分数据的软删除
+- [69] prometheus的保存时间的计算, 忽略head block和最新生成的block, 对其他部分进行保存时间计算
+- [76] 发送数据到adapater, 会根据压力和但个分片的处理速度, 动态地决定分片数
+- 第三部分: 在kubernetes中如何安装配置prometheus
+- [261] 图12-3: promethues各组件的关系
