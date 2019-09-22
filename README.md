@@ -8,6 +8,7 @@ It's personal knowledgebase. In chinese.
 
 ## 更新记录
 
+- 2019.09.22. 增加读书笔记\<深入浅出Promethues\>
 - 2019.09.17. 增加读书笔记\<编程之法\>
 - 2019.08.18. 增加读书笔记\<MySQL实战45讲-极客时间\>
 - 2019.06.18. 增加读书笔记\<Sources of power\>
