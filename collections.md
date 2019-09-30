@@ -108,5 +108,4 @@
         - [Prometheus 不完全避坑指南](https://aleiwu.com/post/prometheus-bp/)
    
 - 篆刻
-    - [查询](http://www.cidianwang.com/zhuanke/)
-    - [印谱](http://211.21.63.176/)
+    - [宝典福书册.北京故宫博物院藏.清乾隆时期缂丝](http://b.gmzm.org/2018/%E9%87%91%E7%9F%B3%E4%B9%A6%E6%B3%95/%E5%AE%9D%E5%85%B8%E7%A6%8F%E4%B9%A6%E5%86%8C/index.asp?page=5)
