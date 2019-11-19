@@ -23,6 +23,10 @@
         ```
         3. [InnoDB Adaptive Hash Index调研总结 by 何登成](http://hedengcheng.com/?p=458)
 
+    - Isolation
+        1. [複習資料庫的 Isolation Level 與圖解五個常見的 Race Conditions](https://medium.com/@chester.yw.chu/%E8%A4%87%E7%BF%92%E8%B3%87%E6%96%99%E5%BA%AB%E7%9A%84-isolation-level-%E8%88%87%E5%B8%B8%E8%A6%8B%E7%9A%84%E4%BA%94%E5%80%8B-race-conditions-%E5%9C%96%E8%A7%A3-16e8d472a25c)
+        2. [對於 MySQL Repeatable Read Isolation 常見的三個誤解
+](https://medium.com/@chester.yw.chu/%E5%B0%8D%E6%96%BC-mysql-repeatable-read-isolation-%E5%B8%B8%E8%A6%8B%E7%9A%84%E4%B8%89%E5%80%8B%E8%AA%A4%E8%A7%A3-7a9afbac65af)
 - Java
     - Flame Graph
         1. [JavaOne 2015 Java Mixed-Mode Flame Graphs](https://www.slideshare.net/brendangregg/javaone-2015-java-mixedmode-flame-graphs)
