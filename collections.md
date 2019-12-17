@@ -65,6 +65,9 @@
         ```
         Introduction of CPU-microarchitecture/Vtune/Top-down
         ```
+        
+    - Memory
+        - [Transparent Hugepages in RHEL 6](https://www.slideshare.net/raghusiddarth/transparent-hugepages-in-rhel-6)
 
     - Assembly Instructions
         - Instructions (https://www.aldeid.com/wiki/X86-assembly/Instructions)
