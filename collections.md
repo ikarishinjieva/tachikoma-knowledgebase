@@ -68,6 +68,10 @@
         
     - Memory
         - [Transparent Hugepages in RHEL 6](https://www.slideshare.net/raghusiddarth/transparent-hugepages-in-rhel-6)
+        - [RHEL Kernel Performance Optimization, Characterization and Tuning](http://docs.linuxtone.org/ebooks/Optimze/Wednesday_1015am_John_Shakshober_and_Larry_Woodman_Decoding_the_Code.pdf)
+        ```
+        将内存管理的各个结构讲的很明白
+        ```
 
     - Assembly Instructions
         - Instructions (https://www.aldeid.com/wiki/X86-assembly/Instructions)
