@@ -41,6 +41,7 @@
         - [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
         - Perf
             1. [Perf examples](http://www.brendangregg.com/perf.html)
+            2. [Linux Performance Analysis New Tools and Old Secrets](https://www.usenix.org/sites/default/files/conference/protected-files/lisa14_slides_gregg.pdf)
 
     - CPU Microarchitecture
         - [CPU pipeline front-end](https://software.intel.com/en-us/blogs/2011/11/22/pipeline-speak-learning-more-about-intel-microarchitecture-codename-sandy-bridge)
