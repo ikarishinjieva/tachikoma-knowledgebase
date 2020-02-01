@@ -1,1 +1,4 @@
-
+- [23] 依据条件逻辑动态调整排序项
+  - 在order by中套用case
+- 对 Null 的处理
+  - [31] NOT IN 相当于 NOT(OR), `NOT(Null) = Null`, `NOT(False) = True`, `NOT(False OR Null) = Null`, 一旦混入Null, 则NOT的语义丢失
