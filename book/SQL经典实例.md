@@ -2,3 +2,19 @@
   - 在order by中套用case
 - 对 Null 的处理
   - [31] NOT IN 相当于 NOT(OR), `NOT(Null) = Null`, `NOT(False) = True`, `NOT(False OR Null) = Null`, 一旦混入Null, 则NOT的语义丢失
+  - [32] NOT EXISTS 对 Null的处理正常
+  - [54] coalesce 函数
+  - Null是不可比较的
+- [35] 从一个表检索与另一个表不相关的行
+  - left join
+- [45] 组合使用连接查询与聚合函数
+  - 连接会造成重复行, 再使用聚合会导致结果不准: 使用 聚合(distinct), 或 先聚合再连接
+- [62] 禁止插入特定列: 使用view, 或使用列权限
+- [70] 删除违反"外键"关系的记录: NOT IN, NOT EXISTS
+- [81] 用SQL生成SQL
+- 数据透视表: 使用Tx表(x行, 从1到x), 与目标表进行全连接, 加以过滤条件, 能展成数据透视表的效果
+  - [85] 遍历字符串: 以一个字符一行的形式展现字符串
+- [88] 统计字符的出现次数
+  - 将指定字符从字符串中除去, 与源字符串长度进行比较: `len(str) - len(replace(str, x, ''))`
+- [102] 按照子字符串排序
+  - `order by substring(...)`
