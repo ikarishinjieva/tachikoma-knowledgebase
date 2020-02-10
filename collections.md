@@ -104,6 +104,8 @@
     - Profs
         - [A month of /proc](https://ops.tips/blog/a-month-of-proc/)
         - [How is /proc able to list process IDs?](https://ops.tips/blog/how-is-proc-able-to-list-pids/)
+    - Chaos Testing
+        - [strace syscall fault injection](https://archive.fosdem.org/2017/schedule/event/failing_strace/attachments/slides/1630/export/events/attachments/failing_strace/slides/1630/strace_fosdem2017_ta_slides.pdf)
        
 - Go
     - Memory
