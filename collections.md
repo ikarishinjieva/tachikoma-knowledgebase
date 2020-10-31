@@ -80,6 +80,7 @@
     - Storage
         - [Linux Storage Stack Diagram](https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram)
         - [深入分析diskstats](http://ykrocku.github.io/blog/2014/04/11/diskstats/)
+        - [Linux IO的几种方式: Direct IO/mmap等](https://www.scylladb.com/2017/10/05/io-access-methods-scylla/)
     - Network
         - [The method to epoll’s madness](https://medium.com/@copyconstruct/the-method-to-epolls-madness-d9d2d6378642)
         - [Wireshark Display Filter Reference](https://www.wireshark.org/docs/dfref/)
